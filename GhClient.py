@@ -1,2 +1,0 @@
-print("GhClient.py")
-input()
